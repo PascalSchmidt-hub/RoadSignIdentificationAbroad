@@ -16,7 +16,7 @@ Projekt von Studierenden der DHBW Mannheim im Kurs "Aktuelle Data Science Entwic
 - Mobility / Smart Traffic
 
 ## Team
-- Pascal Schmidt
-- Philipp Becht
-- Simon Wrigg
+- Pascal Schmidt (8133405)
+- Philipp Becht (9443009)
+- Simon Wrigg (5874903)
 

@@ -9,6 +9,9 @@ Projekt von Studierenden der DHBW Mannheim im Kurs "Aktuelle Data Science Entwic
 - Unterstützung des Fahrers / der Fahrerin in besonders schwierigen Verkehrssituationen (z.B. wenn ein Straßenschild übersehen wurde). Dies sorgt für mehr Sicherheit im Straßenverkehr.
 - Transferierung des Use Cases bei Verkehrssituationen im Ausland (Kann das Auto auch im Ausland fahren und dort die Schilder erkennen?)
 
+## Link zum Google Colab Code
+- https://colab.research.google.com/drive/11Nq1bhfCLRzOw7a85MwX_SVVnV0tFg7T?usp=sharing
+
 ## Themengebiete
 - Deep Learning
 - Transfer Learning
